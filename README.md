@@ -7,9 +7,15 @@ Zune is a backend written in JavaScript and based on Momentum by SimplyZetax, th
 # Features
 
 Working MCP
+
 Battle Pass (Season 8)
+
 Basic Matchmaking
+
 Item Shop Purchase Animations
+
 Shop Rotator
+
 Better Cloudstorage
+
 Auth (Broken Right Now)
